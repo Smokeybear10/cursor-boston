@@ -1,8 +1,8 @@
 {
   "githubHandle": "Smokeybear10",
   "name": "Thomas Ou",
-  "repoUrl": "https://github.com/Smokeybear10/shipped",
-  "liveUrl": "https://shipped-neon.vercel.app",
-  "pitch": "shipped — a self-referential cohort dashboard that pulls submissions straight from this repo: per-week feed, leaderboard, and a randomized Friday voting view.",
+  "repoUrl": "https://github.com/Smokeybear10/205-PROJ.crew",
+  "liveUrl": "https://c4ew.vercel.app",
+  "pitch": "crew — paste any GitHub repo, see its contributors as a force-directed graph. Who pairs with whom, who's been carrying, who's drifted. Replaces 'who knows about X?' with a picture.",
   "competeForWin": false
 }
